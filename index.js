@@ -184,7 +184,7 @@ function appendToDisplay(input){
 }
 
 function cleardisplay(){
-display.value = "";
+display.value = null;
 }
 
 function calculate(){
@@ -196,3 +196,4 @@ try{
     display.value = "Error";
   }
 }
+
