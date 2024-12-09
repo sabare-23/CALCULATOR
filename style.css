@@ -103,7 +103,7 @@ button:active {
 
     #display {
         font-size: 1.5rem;
-        padding: 10px;
+        padding: 35px;
     }
 
     #keys {
@@ -111,6 +111,6 @@ button:active {
     }
 
     button {
-        font-size: 1rem;
+        font-size: 3rem;
     }
 }
